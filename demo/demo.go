@@ -1,8 +1,3 @@
-# pholcus-lib-lagou
-Pholcus的爬虫脚本，抓取自选职位
-
-
-```
 package main
 
 import (
@@ -18,4 +13,3 @@ func main() {
     // 其中"gui"仅支持Windows系统
     exec.DefaultRun("web")
 }
-```
