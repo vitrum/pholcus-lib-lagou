@@ -1,4 +1,4 @@
-package pholcus-lib-lagou
+package pholcus_lib_lagou
 
 
 // 基础包
