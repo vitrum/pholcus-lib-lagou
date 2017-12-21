@@ -2,6 +2,24 @@
 Pholcus的爬虫脚本，抓取自选职位
 
 
+下载Pholcus的爬虫：
+```
+go get -u -v github.com/henrylee2cn/pholcus
+```
+
+下载试例脚本：
+```
+go get -u -v github.com/vitrum/pholcus-lib-lagou
+```
+
+使用demo目录的demo.go
+
+```
+cd demo
+go run demo.go
+```
+
+
 ```
 package main
 
